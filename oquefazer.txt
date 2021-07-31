@@ -1,0 +1,7 @@
+-cabeçalho {titulo e menu_principal} ok
+-declare media query ok
+	esconde o nome e logo
+	em colunas menu de navegação
+-desenvolva o conteudo da pagina cm 4 colunas para desktop e 1 para dispositivo mobile ok
+-implemente o rodape da pagina cm cor e copyrigth ok
+-suba seu projeto para o git hub
